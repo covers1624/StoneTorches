@@ -1,0 +1,27 @@
+{
+	"type" : "forge:ore_shaped",
+	"result" : {
+		"item" : "stone_torches:stone_torch",
+		"data": 0
+	},
+	"pattern": [
+		"C",
+		"S"
+	],
+	"key": {
+		"S": {
+			"type": "forge:ore_dict",
+			"ore": "rodStone"
+		},
+		"C" : [
+			{
+				"type": "forge:ore_dict",
+				"ore": "coal"
+			},
+			{
+				"type": "forge:ore_dict",
+				"ore": "charcoal"
+			}
+		]
+	}
+}

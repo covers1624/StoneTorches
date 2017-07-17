@@ -1,0 +1,17 @@
+[
+	{
+		"modid": "stone_torches",
+		"name": "Stone Torches",
+		"description": "Add stone torches.",
+		"version": "${version}",
+		"credits": "covers1624",
+		"mcversion": "${mc_version}",
+		"updateUrl": "",
+		"authorList": [ "covers1624", "vertex101" ],
+		"parent": "",
+		"screenshots": [],
+		"dependencies": [
+			"forge"
+		]
+	}
+]
