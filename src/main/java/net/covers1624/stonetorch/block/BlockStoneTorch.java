@@ -10,7 +10,7 @@ public class BlockStoneTorch extends BlockTorch {
 
     public BlockStoneTorch() {
         super();
-        setUnlocalizedName("stone_torches:stone_torch");
+        setTranslationKey("stone_torches:stone_torch");
         setRegistryName("stone_torch");
         setHardness(0.0F);
         setLightLevel(0.9375F);

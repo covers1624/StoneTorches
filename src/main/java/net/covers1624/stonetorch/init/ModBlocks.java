@@ -20,7 +20,7 @@ public class ModBlocks {
 
     public static void init() {
         torch_block = new BlockStoneTorch();
-        torch_item = new ItemBlock(torch_block).setRegistryName("stone_torch").setUnlocalizedName("stone_torches:stone_torch");
+        torch_item = new ItemBlock(torch_block).setRegistryName("stone_torch").setTranslationKey("stone_torches:stone_torch");
 
         ForgeRegistries.BLOCKS.register(torch_block);
         ForgeRegistries.ITEMS.register(torch_item);

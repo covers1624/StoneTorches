@@ -2,7 +2,8 @@
 	"type" : "forge:ore_shaped",
 	"result" : {
 		"item" : "stone_torches:stone_torch",
-		"data": 0
+		"data": 0,
+		"count": 4
 	},
 	"pattern": [
 		"C",

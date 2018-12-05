@@ -5,7 +5,7 @@
 		"description": "Add stone torches.",
 		"version": "${version}",
 		"credits": "covers1624",
-		"mcversion": "${mc_version}",
+		"mcversion": "${mcversion}",
 		"updateUrl": "",
 		"authorList": [ "covers1624", "vertex101" ],
 		"parent": "",

@@ -18,7 +18,7 @@ public class ModItems {
 
     public static void init() {
         stone_rod = new Item();
-        stone_rod.setUnlocalizedName("stone_torches:stone_rod");
+        stone_rod.setTranslationKey("stone_torches:stone_rod");
         stone_rod.setRegistryName("stone_rod");
         stone_rod.setCreativeTab(CreativeTabs.MATERIALS);
         ForgeRegistries.ITEMS.register(stone_rod);
